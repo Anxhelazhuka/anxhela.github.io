@@ -1,0 +1,52 @@
+.row{   
+     display: flex;
+     justify-content: space-around;
+    background-color:purple;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+     justify-content: space-around;
+  font-family: 'Libre Baskerville', serif;
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:5px solid black; 
+   
+}
+#image{
+    width:1000px;
+    height:700px;
+    }
+.style{
+   font-family: 'Lobster', cursive;
+   color:purple;
+
+}
+div{
+    display:flex;
+    justify-content:center;
+}
+.footer{
+    justify-content: space-around;
+ font-family: 'Libre Baskerville', serif;
+}
+
+.contact{
+    justify-content: space-around;
+    font-family: 'Libre Baskerville', serif;
+}
+.headshot{
+    width:100px;
+    height:100px;
+    justify-content: space-around;
+    border:black;
+    }
